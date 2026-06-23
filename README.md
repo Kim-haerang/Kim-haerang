@@ -37,7 +37,7 @@
 - MUSIC 기반 AoD/DoA 추정 가능성 검토
 - CNN 기반 denoising/복원 실험과 RMSE 변화 관찰
 
-저장소: `indoor-localization-music-aod`
+저장소: [indoor-localization-music-aod](https://github.com/Kim-haerang/indoor-localization-music-aod)
 
 ### Verilog / Vivado 학습 기록
 
@@ -47,7 +47,7 @@
 - counter, seven-segment, text LCD, 초음파 센서, TFT 출력, SoC/IP 예제 정리
 - Vivado 자동 생성물과 직접 작성한 소스 코드를 분리해 관리
 
-저장소: `verilog-vivado-study`
+저장소: [verilog-vivado-study](https://github.com/Kim-haerang/verilog-vivado-study)
 
 ## 기술 스택
 
