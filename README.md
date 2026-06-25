@@ -47,7 +47,7 @@
 - counter, seven-segment, text LCD, 초음파 센서, TFT 출력, SoC/IP 예제 정리
 - Vivado 자동 생성물과 직접 작성한 소스 코드를 분리해 관리
 
-저장소: [verilog-vivado-study](https://github.com/Kim-haerang/verilog-vivado-study)
+저장소: [vivado-study](https://github.com/Kim-haerang/vivado-study)
 
 ## 기술 스택
 
