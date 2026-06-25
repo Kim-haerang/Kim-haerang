@@ -15,7 +15,7 @@
 - 얼룩 색상, 원단 맥락, 사용자 피드백을 활용한 보정 로직 구현
 - 세제 종류, 펌프 시간, 브러시 강도/횟수를 포함한 세척 계획 산출
 
-저장소: [2026_capstone](https://github.com/Kim-haerang/2026_capstone)
+저장소: [capstone-2026](https://github.com/Kim-haerang/capstone-2026)
 
 ### 토마토 로봇팔
 
@@ -26,7 +26,7 @@
 - 카메라 입력, 좌표 계산, 로봇팔 제어로 이어지는 시스템 구조 설계
 - 대회 시연을 위한 프로토타입 문서화
 
-저장소: [Tomato-Robot-Arm](https://github.com/Kim-haerang/Tomato-Robot-Arm)
+저장소: [tomato-robot-arm](https://github.com/Kim-haerang/tomato-robot-arm)
 
 ### MUSIC 기반 실내 위치추정 연구
 
