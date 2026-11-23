@@ -10,7 +10,7 @@ STM32와 FreeRTOS를 활용한 센서·모터 제어 프로젝트를 진행했�
 | [STM32 엘리베이터](https://github.com/Kim-haerang/stm32-elevator-control) | 타이머 인터럽트 기반 층 이동·비상 처리 | 제어 로직, 로비 호출, 모터·표시·사운드 |
 | [STM32 · FreeRTOS RC카](https://github.com/Kim-haerang/stm32-rc-car-freertos) | 초음파 장애물 회피와 반자동 주행 | AUTO·SEMI_AUTO 제어 |
 | [RV32I CPU · APB](https://github.com/Kim-haerang/rv32i-apb-uvm) | Multi-Cycle CPU와 APB·GPIO 연동 팀 프로젝트 | RV32I CPU 코드 작성·완성 |
-| [스마트 자동 세척기](https://github.com/Kim-haerang/capstone-2026) | 이미지 분류·세척 계획과 하드웨어 연동 | 상세 기능·구성은 저장소 참고 |
+| [스마트 자동 세척기](https://github.com/Kim-haerang/capstone-2026) | 이미지 분류·세척 계획과 하드웨어 연동 | 팀장, 백엔드·피드백 기능 |
 
 ## 사용 기술
 
